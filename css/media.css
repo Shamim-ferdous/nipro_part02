@@ -1,0 +1,232 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.logo{
+	font-size: 23px;
+}
+.menu ul li a {
+    padding: 3px 0;
+    font-size: 14px;
+}
+.ddm[data-bs-popper] {
+    top: 45px;
+    left: -2px;
+}
+.ddm {
+	width: 290px;
+    padding: 5px 5px;
+}
+.d_input {
+    height: 40px;
+}
+.d_btn{
+    height: 40px;
+}
+/*slider*/
+.s_item {
+    margin: 60px 0;
+}
+.s_h1 {
+    font-size: 27px;
+}
+.s_p {
+    padding: 20px 0 30px;
+    font-size: 14px;
+}
+.btn_c {
+    padding: 8px 20px;
+}
+/*service*/
+.c_padd{
+    padding-bottom: 60px;
+}
+.c_h1 {
+    font-size: 24px;
+}
+.serv_p {
+    margin-top: 30px;
+    font-size: 15px;
+}
+.s_service {
+    margin-top: 50px;
+}
+/*about*/
+.ab_img {
+    padding: 0 0 25px;
+}
+.ab_text {
+    padding-left: 0px;
+    text-align: center;
+}
+.ab_p, .btn_ab{
+    margin-top: 20px;
+}
+/*choose_nipro*/
+.ch_text {
+    margin: 35px 35px 0;
+}
+.ch_h2 {
+    margin: 0 0 15px 0;
+}
+.ch_p {
+    margin-bottom: 30px;
+}
+/*pricing*/
+.s_pricing {
+    margin: 20px 20px;
+}
+.pp {
+    font-size: 26px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.logo{
+	font-size: 25px;
+}
+.menu ul li a {
+    padding: 2px 0;
+}
+.ddm[data-bs-popper] {
+    top: 5px;
+    left: 55px;
+}
+.ddm {
+    padding: 5px 5px;
+}
+/*slider*/
+.s_item {
+    margin: 60px 0;
+}
+.s_h1 {
+    font-size: 40px;
+}
+.s_p {
+    padding: 25px 0 35px;
+}
+.btn_c {
+    padding: 12px 30px;
+}
+/*service*/
+.c_padd{
+    padding-bottom: 60px;
+}
+.btn_c {
+    padding: 10px 25px;
+}
+.c_h1 {
+    font-size: 26px;
+}
+.serv_p {
+    margin-top: 30px;
+}
+.s_service {
+    margin-top: 50px;
+}
+/*about*/
+.ab_img {
+    padding: 0 50px 50px;
+}
+.ab_text {
+    padding-left: 50px;
+}
+.ab_p, .btn_ab{
+    margin-top: 20px;
+}
+/*choose_nipro*/
+.ch_text {
+    margin: 35px 70px 0;
+}
+.ch_h2 {
+    margin: 0 0 15px 0;
+}
+.ch_p {
+    margin-bottom: 30px;
+}
+/*pricing*/
+.s_pricing {
+    margin: 20px 60px;
+}
+.pp {
+    font-size: 26px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.logo{
+	font-size: 25px;
+}
+.menu ul li a {
+    padding: 2px 0;
+}
+.ddm[data-bs-popper] {
+    top: -5px;
+    left: 55px;
+}
+/*slider*/
+.s_item {
+    margin: 100px 0;
+}
+/*service*/
+.c_padd{
+    padding-bottom: 80px;
+}
+.btn_c {
+    padding: 10px 25px;
+}
+.c_h1 {
+    font-size: 28px;
+}
+/*about*/
+.ab_img {
+    padding: 0 60px 60px;
+}
+.ab_p, .btn_ab{
+    margin-top: 25px;
+}
+/*choose_nipro*/
+.ch_h2 {
+    margin: 0 0 15px 0;
+}
+/*pricing*/
+.s_pricing {
+    margin-top: 40px;
+}
+.pp {
+    font-size: 28px;
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*service*/
+.c_h1 {
+    font-size: 28px;
+}
+.btn_c {
+    padding: 10px 25px;
+}
+/*about*/
+.ab_p {
+    margin-top: 20px;
+}
+/*choose_nipro*/
+.ch_h2 {
+    margin: 19px 27px 18px -27px;
+    font-size: 16px !important;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
